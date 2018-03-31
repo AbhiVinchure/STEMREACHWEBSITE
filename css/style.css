@@ -295,7 +295,8 @@ fieldset[disabled] .s-btn {
 
 .s-btn--dark-bg {
   color: #fff;
-  background: #222324;
+  background: #909
+/*   background: #222324; */
   border-width: 0.0625rem;
   border-style: solid;
   border-color: #222324;
