@@ -262,7 +262,9 @@ a:focus, a:hover {
   Colors
 ------------------------------------*/
 .g-color--primary {
-  color: #c54041 !important;
+  color: #000000
+/*   color: #c54041 !important; */
+
 }
 
 .g-color--text[href]:hover {
