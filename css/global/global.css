@@ -7318,7 +7318,8 @@
 }
 
 .g-bg-color--heading {
-  background-color: #242424 !important;
+/*   background-color: #242424 !important; */
+  background-color: #000000 !important;
 }
 
 .g-bg-color--white {
