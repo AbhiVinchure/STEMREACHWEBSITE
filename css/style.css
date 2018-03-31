@@ -188,7 +188,8 @@ a:focus {
 
 ::-webkit-selection {
   color: #fff;
-  background: #13b1cd;
+ background: #909
+/*   background: #13b1cd; */
   text-shadow: none;
 }
 
